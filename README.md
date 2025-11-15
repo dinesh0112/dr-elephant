@@ -32,7 +32,7 @@ Github issues: [click here](https://github.com/linkedin/dr-elephant/issues)
 We have scheduled a weekly Dr. Elephant meeting for the interested developers and users to discuss future plans for Dr. Elephant. Please [click here](https://github.com/linkedin/dr-elephant/issues/209) for details.
 
 ## How to Contribute?
-
+I dont want to contrinute
 Check this [link](https://github.com/linkedin/dr-elephant/wiki/How-to-Contribute%3F).
 
 ## License
